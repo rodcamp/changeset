@@ -1,16 +1,14 @@
 name: Release
 
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    types: opened
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 permissions:
   contents: write
   pull-requests: write
-  packages: write
 
 jobs:
   release:
