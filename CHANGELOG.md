@@ -1,5 +1,11 @@
 # changeset
 
+## 1.2.2
+
+### Patch Changes
+
+- 7baaefb: testes testes testes
+
 ## 1.2.0
 
 ### Minor Changes
