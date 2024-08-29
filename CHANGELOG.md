@@ -1,5 +1,17 @@
 # changeset
 
+## 1.2.0
+
+### Minor Changes
+
+- 2203ea6: adsfasdfasdfasdfasdf
+
+### Patch Changes
+
+- 45989ae: novo teste do teste
+- b576058: oi novamente
+- 2bb24fc: fazendo o que aqui?
+
 ## 1.0.12
 
 ### Patch Changes
