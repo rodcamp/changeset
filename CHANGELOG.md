@@ -1,5 +1,12 @@
 # changeset
 
+## 1.0.10
+
+### Patch Changes
+
+- 022e4b0: novo teste
+- 022e4b0: novo teste
+
 ## 1.0.8
 
 ### Patch Changes
