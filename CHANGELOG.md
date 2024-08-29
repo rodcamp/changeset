@@ -1,5 +1,11 @@
 # changeset
 
+## 1.0.6
+
+### Patch Changes
+
+- testando outra vez
+
 ## 1.0.4
 
 ### Patch Changes
