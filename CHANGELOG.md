@@ -1,5 +1,11 @@
 # changeset
 
+## 1.0.4
+
+### Patch Changes
+
+- esse é para corrigir um erro que nao encontrei
+
 ## 1.0.2
 
 ### Patch Changes
