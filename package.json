@@ -1,0 +1,10 @@
+{
+  "name": "changeset",
+  "version": "1.0.0",
+  "description": "poc changeset",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "generate-gitignore": "^0.2.6"
+  }
+}
