@@ -1,5 +1,11 @@
 # changeset
 
+## 1.0.12
+
+### Patch Changes
+
+- 18b15d9: o que estou fazendo
+
 ## 1.0.10
 
 ### Patch Changes
