@@ -1,10 +1,11 @@
 {
   "name": "changeset",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "poc changeset",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "private": false,
   "dependencies": {
+    "@changesets/cli": "^2.27.7",
     "generate-gitignore": "^0.2.6"
   }
 }
